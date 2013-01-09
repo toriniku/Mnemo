@@ -1,6 +1,10 @@
 === Images ===
 
-01 [president] [dance of joy] [trophy]
+01 [president] [dancing of joy] [trophy]
+04 [Teenage Mutant Ninja Turtles] [sculpuring] [ninja weapons]
+11 [Mad Maynard (Vinnie Jones)] [playing soccer] [football]
+82 [Michael Jackson] [moonwalking] [white glove]
+88 [Captain Jack Sparrow (Johnny Depp)] [sailing a ship] [compass]
 
 
 
@@ -9,6 +13,19 @@
 01 [president] [dance of joy] [trophy]   
 The president is of course the most important person in any democratic country; the man whose decisions always go first. Imagine George Washington - the first American president ever - performing a dance of joy after winning the elections, in his hand the golden trophy for "1st president ever".
 
+04 [Teenage Mutant Ninja Turtles] [sculpuring] [ninja weapons]
+All four of the Teenage Mutant Ninja Turtles are giving it their utmost best to honor the origin of their names: they are sculpturing a magnificent Renaissance style sculpture. How? by using the same tools they wield to fight crime: their ninja weapons!
+
+11 [Mad Maynard (Vinnie Jones)] [playing soccer] [football]
+Mad Maynard from the movie "Eurotrip" is playing football (soccer) with the greatest football team in the world, Manchester United. Imagine him shouting and cursing as he misses the goal.
+
+82 [Michael Jackson] [moonwalking] [white glove]
+On November 30, 1982, Michael Jackson released his famous album "Thriller". On this album was the song "Billie Jean", which featured the moonwalk. Imagine Michael doing this dancemove while wearing his distinctive white glove.
+
+88 [Captain Jack Sparrow (Johnny Depp)] [sailing a ship] [compass]
+In the movie "Pirates of the caribbean - Curse of the Black Pearl", Captain Jack Sparrow intended to get back on his ship, while the crew on the ship was after the treasure of 882 identical Aztek coins to lift their curse. He used his trusty compass to show him the way.
+[Optional: use Mad Jack the Pirate instead of Captain Jack Sparrow, he is just a nutty and makes for great images.]
+
 
 
 === Ideas for images ===
@@ -16,18 +33,16 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 
 02 
 03 
-04 
-05 Beethoven's 5th symphony - Componist / St. Bernhards hond
+05 Beethoven's 5th symphony - Componist / St. Bernards dog (from the movie)
 06 
 07 James Bond
-08 Hash is de wietste letter van het alfabet
-09 Platform 9 3/4
+08 Number of bosses in MegaMan games
+09 Platform 9 3/4 (Harry Potter)
 10 
-11 Carnaval
-12 Aantal uren op een klokwerk / maanden in een jaar
-13 Ongeluksgetal / 1337 (met 37)
+12 Number of hours on a clock
+13 Bad luck number
 14 
-15 Aantal Megaman spellen dat ik als Megaman spellen erken (MM 1 2 3 4 5 6 7 8, MMX 1 2 3 4 5 6   8)
+15
 16 Aantal stukken in schaakspel (samen met 32)
 17 
 18 
@@ -52,7 +67,7 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 37 1337 (met 13)
 38 
 39 
-40 40-urige werkweek / standaardbeeld werkende man
+40
 41 
 42 Hitchhikers Guide to the Galaxy
 43 
@@ -94,13 +109,11 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 79 Release date Mobile Suite Gundam
 80 Release Boes - Zaadjes zaaien / Vissen / vogelhuisjes maken
 81 
-82 1982 - Michael Jackson - Thriller - Moonwalk
 83 1983 - 1994 The Joy of Painting - Bob Ross
 84 
 85 
 86 Verhoeven's random getal
 87 1687 - Newton's Principia - appel
-88 Pirates of the Caribbean - 882 identieke Azteekse muntstukken voor de vloek - Captain Jack Sparrow
 89 Laatste getal in reeks van Fibonacci voor de 100
 90 Release date Commander Keen / Fresh Prince of Bel-Air
 91 Release date Supaplex
