@@ -13,10 +13,10 @@ For every mnemonic, three highly imaginable elements are used:
 00
 --
 
-01 George Washington making a dance of joy with a huge #1 trofee
+01 The US president making a dance of joy with a huge #1 trofee
 --
 
-The person is in this mnemonic is George Washington. He was the first president of the USA and is very memorable and imaginable with his huge beard. The action is a dance of joy one makes when being #1. Finally, the object in this mnemonic is an enormous trofee that is awarded to the winner.
+The person is in this mnemonic is the president of the USA for his influence on the world. Picking an individual president makes a vivid image, like the one for Abraham Lincoln. The action is a dance of joy one makes when being #1. Finally, the object in this mnemonic is an enormous trofee that is awarded to the winner.
 
 02
 --
