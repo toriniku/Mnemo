@@ -34,8 +34,23 @@ the winner.
 [01-0]: http://en.wikipedia.org/wiki/Abraham_Lincoln
         "Abraham Lincoln - Wikipedia"
 
-02
+02 Luigi dancing the tango with a dove
 --
+
+[Luigi] [02-0] is just the second half of the Mario and Luigi duo. Being the
+second makes him a good candidate for this number, but his tall body and vivid
+green color in his clothing makes him very memorable. As action, dancing the
+[tango] [02-1] has a reference to the South American dance with staccato
+movements. As object, the [dove] [02-2] references a symbol of peace, being pure
+in the white color, which allows for a bright image. Alternatively, imagining a
+dove with different, but bright, colors can also create a vivid image.
+
+[02-0]: http://en.wikipedia.org/wiki/Luigi
+        "Luigi - Wikipedia"
+[02-1]: http://en.wikipedia.org/wiki/Tango_(dance)
+        "Tango (dance) - Wikipedia"
+[02-2]: http://en.wikipedia.org/wiki/Dove
+        "Dove - Wikipedia"
 
 03
 --
