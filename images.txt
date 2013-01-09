@@ -1,23 +1,14 @@
 === Images ===
 
-01 [president] [dancing of joy] [trophy]
-04 [Teenage Mutant Ninja Turtles] [sculpuring] [ninja weapons]
-11 [Mad Maynard (Vinnie Jones)] [playing soccer] [football]
-82 [Michael Jackson] [moonwalking] [white glove]
-88 [Captain Jack Sparrow (Johnny Depp)] [sailing a ship] [compass]
-
-
-
-=== Motivation images ===
-
-01 [president] [dance of joy] [trophy]   
-The president is of course the most important person in any democratic country; the man whose decisions always go first. Imagine George Washington - the first American president ever - performing a dance of joy after winning the elections, in his hand the golden trophy for "1st president ever".
-
 04 [Teenage Mutant Ninja Turtles] [sculpuring] [ninja weapons]
 All four of the Teenage Mutant Ninja Turtles are giving it their utmost best to honor the origin of their names: they are sculpturing a magnificent Renaissance style sculpture. How? by using the same tools they wield to fight crime: their ninja weapons!
 
 11 [Mad Maynard (Vinnie Jones)] [playing soccer] [football]
-Mad Maynard from the movie "Eurotrip" is playing football (soccer) with the greatest football team in the world, Manchester United. Imagine him shouting and cursing as he misses the goal.
+Mad Maynard from the movie "Eurotrip" is playing football (soccer) with the greatest football team in the world, Manchester United. Imagine him shouting and cursing as he misses the goal. It should be possible to envision a whole soccer team of 11 people if that image suits you more.
+
+50 [Zeno] [running] [turtle]
+Zeno in a race with a turtle. Of course, since Zeno first reaches 50% of the course within a certain time, then 50% of the remaining half, etc, he never will finish the race and the turtle will win.
+Zeno of het meer algemene concept Griekse filosoof is wellicht niet contreet genoeg om voor te stellen in andere verhalen.
 
 82 [Michael Jackson] [moonwalking] [white glove]
 On November 30, 1982, Michael Jackson released his famous album "Thriller". On this album was the song "Billie Jean", which featured the moonwalk. Imagine Michael doing this dancemove while wearing his distinctive white glove.
@@ -26,12 +17,14 @@ On November 30, 1982, Michael Jackson released his famous album "Thriller". On t
 In the movie "Pirates of the caribbean - Curse of the Black Pearl", Captain Jack Sparrow intended to get back on his ship, while the crew on the ship was after the treasure of 882 identical Aztek coins to lift their curse. He used his trusty compass to show him the way.
 [Optional: use Mad Jack the Pirate instead of Captain Jack Sparrow, he is just a nutty and makes for great images.]
 
+98 [Jim Raynor] [killing zerglings] [marine suit]
+1998 release date StarCraft.
+
 
 
 === Ideas for images ===
 Note: These ideas need to be worked out so that concrete images can be formed.
 
-02 
 03 
 05 Beethoven's 5th symphony - Componist / St. Bernards dog (from the movie)
 06 
@@ -67,7 +60,7 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 37 1337 (met 13)
 38 
 39 
-40
+40 Birthyear of Chuck Norris
 41 
 42 Hitchhikers Guide to the Galaxy
 43 
@@ -77,7 +70,6 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 47 
 48 
 49 
-50 Half-way point - Zeno - oude Griekse natuurfilosofen
 51 Aantal staten in de V.S. - typische redneck Amerikaan
 52 Aantal kaarten in een kaartenspel
 53 
@@ -123,6 +115,4 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 95 
 96 Intrede Ludo Sanders in GTST - Medogenloze zakenman
 97 
-98 1998 - Release date StarCraft
 99 99 Luftballon
-00 Zero Cool / Hackers
