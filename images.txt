@@ -1,13 +1,13 @@
 === Images ===
 
-01 [Abraham Lincoln] [dance of joy] [trophy]
+01 [president] [dance of joy] [trophy]
 
 
 
 === Motivation images ===
 
-01 [Abraham Lincoln] [vreugdedans] [troffee]   
-Abraham Lincoln was de eerste president van de Verenigde Staten. De eerste plaats wordt gesymboliseerd door de trofee en uiteraard is onze grote vriend blij deze in ontvangst te nemen, vandaar het vreugdedansje.
+01 [president] [dance of joy] [trophy]   
+The president is of course the most important person in any democratic country; the man whose decisions always go first. Imagine George Washington - the first American president ever - performing a dance of joy after winning the elections, in his hand the golden trophy for "1st president ever".
 
 
 
@@ -112,3 +112,4 @@ Note: These ideas need to be worked out so that concrete images can be formed.
 97 
 98 1998 - Release date StarCraft
 99 99 Luftballon
+00 Zero Cool / Hackers
