@@ -10,8 +10,14 @@ For every mnemonic, three highly imaginable elements are used:
 * A = Action
 * O = Object
 
-00
+00 A hacker wildly running circles around a rotten egg
 --
+
+The hacker is a generalization of Zero Cool, a main character in the movie
+"Hackers". Represented by the two circles of this number is the action of
+running those circles. To make the action vivid, imagine running very fast and
+making wild sounds. Again represented by the two circles is the egg, which can
+be made vivid by adding smell: they're rotten and stink badly.
 
 01 The US president making a dance of joy with a huge #1 trofee
 --
