@@ -14,15 +14,25 @@ For every mnemonic, three highly imaginable elements are used:
 --
 
 The hacker is a generalization of Zero Cool, a main character in the movie
-"Hackers". Represented by the two circles of this number is the action of
+[Hackers] [00-0]. Represented by the two circles of this number is the action of
 running those circles. To make the action vivid, imagine running very fast and
 making wild sounds. Again represented by the two circles is the egg, which can
 be made vivid by adding smell: they're rotten and stink badly.
 
+[00-0]: http://www.imdb.com/title/tt0113243/
+        "Hacker (1995) - IMBd"
+
 01 The US president making a dance of joy with a huge #1 trofee
 --
 
-The person is in this mnemonic is the president of the USA for his influence on the world. Picking an individual president makes a vivid image, like the one for Abraham Lincoln. The action is a dance of joy one makes when being #1. Finally, the object in this mnemonic is an enormous trofee that is awarded to the winner.
+The person is in this mnemonic is the president of the USA for his influence on
+the world. Picking an individual president makes a vivid image, like the one fo
+[Abraham Lincoln] [01-0]. The action is a dance of joy one makes when being #1.
+Finally, the object in this mnemonic is an enormous trofee that is awarded to
+the winner.
+
+[01-0]: http://en.wikipedia.org/wiki/Abraham_Lincoln
+        "Abraham Lincoln - Wikipedia"
 
 02
 --
