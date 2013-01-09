@@ -20,7 +20,7 @@ making wild sounds. Again represented by the two circles is the egg, which can
 be made vivid by adding smell: they're rotten and stink badly.
 
 [00-0]: http://www.imdb.com/title/tt0113243/
-        "Hacker (1995) - IMBd"
+        "Hacker (1995) - IMDb"
 
 01 The US president making a dance of joy with a huge #1 trofee
 --
