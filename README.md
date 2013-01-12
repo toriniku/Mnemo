@@ -69,7 +69,7 @@ a very vivid image. It's absurd to see a viking throwing a mobile phone, so
 that should be easily rememberable. The object in this image is a mobile phone,
 since in The Netherlands all cell phone numbers start with 06.
 
-[06-1]: https://mobilevikings.com/bel/en/
+[06-0]: https://mobilevikings.com/bel/en/
         "Mobile Vikings"
 
 07
