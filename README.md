@@ -52,8 +52,24 @@ dove with different, but bright, colors can also create a vivid image.
 [02-2]: http://en.wikipedia.org/wiki/Dove
         "Dove - Wikipedia"
 
-03
+03 Our Dear Leader looking at candy
 --
+
+[Our Dear Leader] [03-0] can easily be remembered as the "third rank" leader.
+For years, there have been the website [Kim Jong-il looking at things] [03-1]
+which makes the action "looking at" a good image for this number. One of the more
+memorable episodes on this website is the one where the leader is [looking at a
+candy bucket] [03-2]. Candy can be formed in a very memorable image, focussing on
+vivid colors and a sweet taste.
+
+[03-0]: http://en.wikipedia.org/wiki/List_of_leaders_of_North_Korea
+        "List of leaders of North Korea - Wikipedia"
+
+[03-1]: http://kimjongillookingatthings.tumblr.com/
+        "Kim Jong-il looking at things"
+
+[03-2]: http://kimjongillookingatthings.tumblr.com/post/27918526499/looking-at-a-candy-bucket
+        "Kim Jong-il looking at things - looking at a candy bucket"
 
 04
 --
