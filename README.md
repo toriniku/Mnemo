@@ -57,10 +57,10 @@ dove with different, but bright, colors can also create a vivid image.
 
 [Our Dear Leader] [03-0] can easily be remembered as the "third rank" leader.
 For years, there have been the website [Kim Jong-il looking at things] [03-1]
-which makes the action "looking at" a good image for this number. One of the more
-memorable episodes on this website is the one where the leader is [looking at a
-candy bucket] [03-2]. Candy can be formed in a very memorable image, focussing on
-vivid colors and a sweet taste.
+which makes the action "looking at" a good image for this number. One of the
+more memorable episodes on this website is the one where the leader is [looking
+at a candy bucket] [03-2]. Candy can be formed in a very memorable image,
+focussing on vivid colors and a sweet taste.
 
 [03-0]: http://en.wikipedia.org/wiki/List_of_leaders_of_North_Korea
         "List of leaders of North Korea - Wikipedia"
@@ -80,10 +80,10 @@ vivid colors and a sweet taste.
 06 A viking throwing a mobile phone
 --
 
-The viking refers to the mobile operator [Mobile Vikings] [06-0] and can be
-a very vivid image. It's absurd to see a viking throwing a mobile phone, so
-that should be easily rememberable. The object in this image is a mobile phone,
-since in The Netherlands all cell phone numbers start with 06.
+The viking refers to the mobile operator [Mobile Vikings] [06-0] and can be a
+very vivid image. It's absurd to see a viking throwing a mobile phone, so that
+should be easily rememberable. The object in this image is a mobile phone, since
+in The Netherlands all cell phone numbers start with 06.
 
 [06-0]: https://mobilevikings.com/bel/en/
         "Mobile Vikings"
@@ -103,8 +103,12 @@ since in The Netherlands all cell phone numbers start with 06.
 11
 --
 
-12
+12 .. waiting with a watch
 --
+
+Twelve is the number of hours displayed on a clock. An action related to a clock
+is waiting. The object in this image is a watch, which can be a memorable image
+when seen as hi-tech watch with a lot of buttons.
 
 13
 --
