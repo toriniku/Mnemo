@@ -193,8 +193,20 @@ with a lot of buttons.
 34
 --
 
-35
+35 Jules Deelder writing on a printer
 --
+
+In internet standards, port 35 is reserved for ["any private printer server"]
+[35-0], which makes for a perfect object. The person doing something with the
+printer is [Jules Deelder (Dutch)] [35-1], a well known Dutch poet and writer.
+He is very rememberable by his block clothes and slick hair. The action he
+takes, of course, is writing. Writing on a printer.
+
+[35-0]: http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+        "List of TCP and UDP port number - Wikipedia"
+
+[35-1]: http://nl.wikipedia.org/wiki/Jules_Deelder
+        "Jules Deelder - Wikipedia"
 
 36
 --
