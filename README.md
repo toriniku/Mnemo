@@ -103,12 +103,17 @@ in The Netherlands all cell phone numbers start with 06.
 11
 --
 
-12 .. waiting with a watch
+12 Sonic waiting with a watch
 --
 
-Twelve is the number of hours displayed on a clock. An action related to a clock
-is waiting. The object in this image is a watch, which can be a memorable image
-when seen as hi-tech watch with a lot of buttons.
+Sonic the Hedgehog [12-0] is a vivid image with a nice blue skin, always quick
+and always waiting for anything and everbody. Twelve is the number of hours
+displayed on a clock. An action related to a clock is waiting. The object in
+this image is a watch, which can be a memorable image when seen as hi-tech watch
+with a lot of buttons.
+
+[12-0]: http://www.sonicthehedgehog.com/
+        "Sonic the Hedgehog"
 
 13
 --
