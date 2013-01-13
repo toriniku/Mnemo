@@ -71,7 +71,7 @@ focussing on vivid colors and a sweet taste.
 [03-2]: http://kimjongillookingatthings.tumblr.com/post/27918526499/looking-at-a-candy-bucket
         "Kim Jong-il looking at things - looking at a candy bucket"
 
-04
+04 Michalangelo sculpting a ninja weapon
 --
 
 05
@@ -103,7 +103,7 @@ in The Netherlands all cell phone numbers start with 06.
 11
 --
 
-12 .. waiting with a watch
+12 Sonic the Hedgehog waiting with a watch
 --
 
 Twelve is the number of hours displayed on a clock. An action related to a clock
