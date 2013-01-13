@@ -118,7 +118,7 @@ in The Netherlands all cell phone numbers start with 06.
 12 Sonic the Hedgehog waiting with a watch
 --
 
-Sonic the Hedgehog [12-0] is a vivid image with a nice blue skin, always quick
+Sonic the [Hedgehog] [12-0] is a vivid image with a nice blue skin, always quick
 and always waiting for anything and everbody. Twelve is the number of hours
 displayed on a clock. An action related to a clock is waiting. The object in
 this image is a watch, which can be a memorable image when seen as hi-tech watch
