@@ -193,7 +193,7 @@ with a lot of buttons.
 34
 --
 
-35 Jules Deelder writing on a printer
+35 (A poet) (writing on) (a printer)
 --
 
 In internet standards, port 35 is reserved for ["any private printer server"]
