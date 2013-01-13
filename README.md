@@ -74,6 +74,18 @@ focussing on vivid colors and a sweet taste.
 04 Michalangelo sculpting a ninja weapon
 --
 
+As a team of four, the [Teenage Mutant Ninja Turtles] [04-0] is a perfectly
+suitable team for this number. The turtle with the orange mask is [Michelangelo]
+[04-1] acts as the person for this image and his [nunchaku] [04-2] can easily
+be the object. So what is he doing with his ninja weapon? He is sculpting it!
+
+[04-0]: http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles
+        "Teenage Mutant Ninja Turtles - Wikipedia"
+[04-1]: http://en.wikipedia.org/wiki/Michelangelo_(Teenage_Mutant_Ninja_Turtles)
+        "Michelangelo (Teenage Mutant Ninja Turtles) - Wikipedia"
+[04-2]: http://en.wikipedia.org/wiki/Nunchaku
+        "Nunchaku - Wikipedia"
+
 05
 --
 
