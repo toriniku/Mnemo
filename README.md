@@ -10,7 +10,7 @@ For every mnemonic, three highly imaginable elements are used:
 * A = Action
 * O = Object
 
-00 A hacker wildly running circles around a rotten egg
+00 (A hacker) (wildly running circles around) (a rotten egg)
 --
 
 The hacker is a generalization of Zero Cool, a main character in the movie
@@ -22,7 +22,7 @@ be made vivid by adding smell: they're rotten and stink badly.
 [00-0]: http://www.imdb.com/title/tt0113243/
         "Hacker (1995) - IMDb"
 
-01 The US president making a dance of joy with a huge #1 trofee
+01 (The US president) (making a dance of joy with) (a huge #1 trophy)
 --
 
 The person is in this mnemonic is the president of the USA for his influence on
@@ -34,7 +34,7 @@ the winner.
 [01-0]: http://en.wikipedia.org/wiki/Abraham_Lincoln
         "Abraham Lincoln - Wikipedia"
 
-02 Luigi dancing the tango with a dove
+02 (Luigi) (dancing the tango with) (a dove)
 --
 
 [Luigi] [02-0] is just the second half of the Mario and Luigi duo. Being the
@@ -52,7 +52,7 @@ dove with different, but bright, colors can also create a vivid image.
 [02-2]: http://en.wikipedia.org/wiki/Dove
         "Dove - Wikipedia"
 
-03 Our Dear Leader looking at candy
+03 (Our Dear Leader) (looking at) (candy)
 --
 
 [Our Dear Leader] [03-0] can easily be remembered as the "third rank" leader.
@@ -71,7 +71,7 @@ focussing on vivid colors and a sweet taste.
 [03-2]: http://kimjongillookingatthings.tumblr.com/post/27918526499/looking-at-a-candy-bucket
         "Kim Jong-il looking at things - looking at a candy bucket"
 
-04 Michalangelo sculpting a ninja weapon
+04 (Michalangelo) (sculpting) (a ninja weapon)
 --
 
 As a team of four, the [Teenage Mutant Ninja Turtles] [04-0] is a perfectly
@@ -89,7 +89,7 @@ be the object. So what is he doing with his ninja weapon? He is sculpting it!
 05
 --
 
-06 A viking throwing a mobile phone
+06 (A viking) (throwing) (a mobile phone)
 --
 
 The viking refers to the mobile operator [Mobile Vikings] [06-0] and can be a
@@ -115,7 +115,7 @@ in The Netherlands all cell phone numbers start with 06.
 11
 --
 
-12 Sonic the Hedgehog waiting with a watch
+12 (Sonic the Hedgehog) (waiting with) (a watch)
 --
 
 [Sonic the Hedgehog] [12-0] is a vivid image with a nice blue skin, always quick
