@@ -301,7 +301,7 @@ takes, of course, is writing. Writing on a printer.
 66
 --
 
-67
+67 (Neptunes) (inflating) (a wooden raft)
 --
 
 68
@@ -385,7 +385,7 @@ takes, of course, is writing. Writing on a printer.
 94
 --
 
-95
+95 (A sheikh) (getting frustrated) (at a window)
 --
 
 96
