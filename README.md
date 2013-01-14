@@ -71,7 +71,7 @@ focussing on vivid colors and a sweet taste.
 [03-2]: http://kimjongillookingatthings.tumblr.com/post/27918526499/looking-at-a-candy-bucket
         "Kim Jong-il looking at things - looking at a candy bucket"
 
-04 (Michalangelo) (sculpting) (a ninja weapon)
+04 (Michalangelo) (sculpting) (a shuriken)
 --
 
 As a team of four, the [Teenage Mutant Ninja Turtles] [04-0] is a perfectly
@@ -220,7 +220,7 @@ takes, of course, is writing. Writing on a printer.
 39
 --
 
-40
+40 (Chuck Norris) (roundhouse kicking) (boots)
 --
 
 41
@@ -301,7 +301,7 @@ takes, of course, is writing. Writing on a printer.
 66
 --
 
-67 (Neptunes) (inflating) (a wooden raft)
+67 (Neptune) (inflating) (a wooden raft)
 --
 
 68
@@ -331,7 +331,7 @@ takes, of course, is writing. Writing on a printer.
 76
 --
 
-77
+77 (Yoda) (using Force Pull on) (a lightsaber)
 --
 
 78
@@ -385,7 +385,7 @@ takes, of course, is writing. Writing on a printer.
 94
 --
 
-95 (A sheikh) (getting frustrated) (at a window)
+95 (A sheikh) (getting frustrated at) (a window)
 --
 
 96

@@ -6,7 +6,7 @@ use strict;
 # load data
 open MNEMO, "<README.md" or die $!;
 my @mnemo = <MNEMO>;
-my $table = [];		# array of hash; will store the created images but not the empty ones
+my $table = [];		# array of arrays; will store the created images but not the empty ones
 my $images = 0;		# number of images
 
 # write existing images into $table
