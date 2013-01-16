@@ -301,7 +301,7 @@ takes, of course, is writing. Writing on a printer.
 66
 --
 
-67 (Neptunes) (inflating) (a wooden raft)
+67 (Neptune) (inflating) (a wooden raft)
 --
 
 68
