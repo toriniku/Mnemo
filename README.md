@@ -220,8 +220,10 @@ takes, of course, is writing. Writing on a printer.
 39
 --
 
-40 (Chuck Norris) (roundhouse kicking) (boots)
+40 (Chuck Norris) (roundhouse kicking) (a pair of boots)
 --
+
+According to official records, on March 10, 1940, Chuck Norris was born. He uses his signature move - the roundhouse kick - on a pair of ugly boots to send them into stationary orbit around the moon.
 
 41
 --
@@ -328,11 +330,15 @@ takes, of course, is writing. Writing on a printer.
 75
 --
 
-76
+76 (Barney Stinson) (high fiving) (a suit)
 --
+
+Barney Stinson is the breakout character from the show "How I Met Your Mother". The suit is because of one of his catchphrases "suit up!". The same with the high five; can be swapped with fistbump. 76 is the number of plays in The Playbook.
 
 77 (Yoda) (using Force Pull on) (a lightsaber)
 --
+
+On May 25, 1977, "Star Wars Episode IV: A New Hope" was released in the movie theaters. One of the most known characters from this movie is of course the little green Jedi Yoda. Here we see him using the Force to pull his trusty lightsaber towards him to ward off his attacker!
 
 78
 --
@@ -346,8 +352,10 @@ takes, of course, is writing. Writing on a printer.
 81
 --
 
-82
+82 (Michael Jackson) (moonwalking with) (a white glove)
 --
+
+On November 30, 1982, Michael Jackson released his famous album "Thriller". On this album was the song "Billie Jean", which featured the moonwalk. Imagine Michael doing this dancemove while wearing his distinctive diamond-sparkling white glove.
 
 83
 --
