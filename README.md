@@ -369,8 +369,10 @@ On November 30, 1982, Michael Jackson released his famous album "Thriller". On t
 86
 --
 
-87
+87 (Sir Isaac Newton) (dropping) (an apple)
 --
+
+In 1687, Sir Isaac Newton heralds the new age of physics with his "Philosophiæ Naturalis Principia Mathematica". The famous anecdote states that he came to his ingenious insights by observing an apple dropping from a tree. In this image we will see him drop an apple from his hand instead.
 
 88
 --
